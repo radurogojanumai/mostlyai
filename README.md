@@ -15,7 +15,7 @@ The **Synthetic Data SDK** is a Python toolkit for high-fidelity, privacy-safe *
 - **CLIENT** mode connects to a remote MOSTLY AI platform for training & generating synthetic data there.
 - Generators, that were trained locally, can be easily imported to a platform for further sharing.
 
-## Overview
+## Overview 
 
 The SDK allows you to programmatically create, browse and manage 3 key resources:
 
