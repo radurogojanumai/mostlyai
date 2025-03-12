@@ -1,4 +1,4 @@
-# Synthetic Data SDK ✨
+# Synthetic Data SDK ✨✨✨
 
 [![GitHub Release](https://img.shields.io/github/v/release/mostly-ai/mostlyai)](https://github.com/mostly-ai/mostlyai/releases)
 [![Documentation](https://img.shields.io/badge/docs-latest-green)](https://mostly-ai.github.io/mostlyai/)
